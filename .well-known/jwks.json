@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "alg": "RS384",
+      "e": "AQAB",
+      "kid": "techyard-ecw-2026",
+      "kty": "RSA",
+      "n": "oz3MQT2VW0gXognUM2Qa1I11ifRa8aeZ7ARR0IM1_JXJLXiBTspz5bVUdAz-UKcK8MnvIk4MTiLwmrRAOOH5eRZ_wdynzmw0pWW9jn8Ah7UWPoKrvUN49KBW3tSD9_fIUGdJw0_oLgkVOYPjChwkrbebYmeGtEIr9y97DQgKB8C8nht7PJ4LhCXSJKrV1019rV7BBnRbd2DwmMunxobEANGoXPSAjEdaSxqVM6w2W4vTrOfSFe-oRFFMuqeiieLfmfu3iiwx1pDXyJk_pZM5MBxkV19T5NWkpVr4Om7iPV_wkbz5F5E0uxOw3jDpiQW8YcpS1XioiKGpEsR2aObZWw",
+      "use": "sig"
+    }
+  ]
+}
